@@ -1,3 +1,45 @@
-nav {
+/* Body Styling */
+html,
+body {
+  overflow-x: hidden;
+}
+
+/* Brand Name and Cars modal zslides styling */
+.brandnameWrapper {
   color: whitesmoke;
+}
+
+.jumbtron-home {
+  margin: 0px;
+}
+
+.slideContainer {
+  padding-left: 35px;
+}
+
+.size-audi {
+  width: 500px;
+  height: 330px;
+}
+.size-logo {
+  width: 250px;
+  height: 115;
+}
+
+.bg-gry {
+  background-color: rgb(252, 252, 252);
+  color: rgb(61, 43, 43);
+  border: 2px solid white;
+}
+
+.carsCartImg {
+  width: 300px;
+  height: 190px;
+  margin: 20px;
+}
+
+.buyBtn {
+  margin: 5px;
+  margin-bottom: 20px;
+  padding: 5px 20px;
 }
